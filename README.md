@@ -17,7 +17,7 @@
 - aim: denoising images (MNIST)
 ##### HW 09 GAN
 - aim: draw sketches of candles
-##### HW 10
+##### HW 10 NLP - SkipGram
 - Text processing
 - using SkipGram
 - aim: find nearest neighbours per token
